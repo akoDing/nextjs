@@ -1,0 +1,1 @@
+export default ({ children }) => <span>Lazy Comp</span>
